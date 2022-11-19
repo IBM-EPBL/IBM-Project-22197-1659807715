@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-image: url("reg.jpg");
+}
+.container{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 700px;
+	padding: 30px 30px;
+	border-radius: 10px;
+	box-shadow:7px 7px 60px #000;
+	}
+
+h2{
+	font-size: 25px;
+	font-weight: 600;
+	margin-bottom: 20px;
+	color: rgba(71, 63, 63, 0.607);
+}				
+.form-group  input{
+	width: 400px;
+	margin-top: 15px;
+	background: white;
+	outline: none;
+	font-size: 12px;
+	border-radius: 30px;
+	box-shadow: 0 0 4px #fff;
+	transition: box-shadow 0.5s ease;
+
+}
+label{
+	color: black;
+
+}
+placeholder{
+color:#000
+}
+
+
