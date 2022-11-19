@@ -21,7 +21,7 @@ Personal Expense Tracker Application
 ## Team Members
 | Team Member  | Name            | Register No    |
 | -------------| -------------   | --------       |
-| Team Lead    | Shrimathi       | 950019104042   |
+| Team Lead    | Shrimathi S       | 950019104042   |
 | Team Member1 | Sabana fathima S     | 950019104038   |
 | Team Member2 | Narmatha B       | 950019104032   |
 | Team Member3 | Gatharine kerenhap E      | 950019104013   |
