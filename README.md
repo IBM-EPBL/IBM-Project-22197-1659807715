@@ -68,3 +68,8 @@ Personal finance applications will ask users to add their expenses and based on 
 ## Project link(web application)
 
 - [Link](http://159.122.179.146:31096/)
+
+## Demo video 
+
+- [Video](https://drive.google.com/drive/folders/1B5FRdTZ6O3lErbkTtFbgIxIIJ4nzb6Up?usp=sharing)
+
